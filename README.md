@@ -1,0 +1,1 @@
+# sc2json-tool
